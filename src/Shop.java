@@ -85,17 +85,17 @@ public class Shop extends JPanel
       
       
       //icon image
-      icon1 = new ImageIcon("shop.jpg"); //Beverage manufacturing window image
+      icon1 = new ImageIcon("image/shop.jpg"); //Beverage manufacturing window image
        //The image of a beverage
-      icon2 = new ImageIcon("americano.jpg");       
-      icon3 = new ImageIcon("latte.png");      
-      icon4 = new ImageIcon("choco.png");      
-      icon5 = new ImageIcon("mocha.png");      
-      icon6 = new ImageIcon("vanila.jpg");      
+      icon2 = new ImageIcon("image/americano.jpg");       
+      icon3 = new ImageIcon("image/latte.png");      
+      icon4 = new ImageIcon("image/choco.png");      
+      icon5 = new ImageIcon("image/mocha.png");      
+      icon6 = new ImageIcon("image/vanila.jpg");      
       
-      icon7 = new ImageIcon("fail.png"); 
-      icon8 = new ImageIcon("cafemain.jpg"); 
-      icon9 = new ImageIcon("hint.jpg"); 
+      icon7 = new ImageIcon("image/fail.png"); 
+      icon8 = new ImageIcon("image/cafemain.jpg"); 
+      icon9 = new ImageIcon("image/hint.jpg"); 
 
       //baselabel = shop screen 
       baselabel = new JLabel("", icon1, SwingConstants.CENTER); 
@@ -170,13 +170,13 @@ public class Shop extends JPanel
 
       
       // generate icon image
-        c11 = new ImageIcon ("shot.png");
-        c22 = new ImageIcon  ("ice.png");
-        c33 = new ImageIcon  ("source.png");
-        c44 = new ImageIcon  ("cream.png");
-        c55 = new ImageIcon  ("milk.png");
-        c66 = new ImageIcon  ("water.png");
-        c77 = new ImageIcon  ("source2.png"); 
+        c11 = new ImageIcon ("image/shot.png");
+        c22 = new ImageIcon  ("image/ice.png");
+        c33 = new ImageIcon  ("image/source.png");
+        c44 = new ImageIcon  ("image/cream.png");
+        c55 = new ImageIcon  ("image/milk.png");
+        c66 = new ImageIcon  ("image/water.png");
+        c77 = new ImageIcon  ("image/source2.png"); 
 
         
          c1 = new JLabel (c11);
