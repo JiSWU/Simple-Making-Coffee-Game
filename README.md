@@ -16,11 +16,10 @@
 ### First Window
 
 - Press the door handle. 
-
-![CreatePlan](./image/first_window.png) {: width="80%" height="80%"}
+<img src="./image/first_window.png" width="60%" height=60%/>
 
 ### Second Window
 
 - Screen for making drinks
 
-![CreatePlan](./image/second_window.png) {: width="80%" height="80%"}
+<img src="./image/second_window.png" width="60%" height=60%/>
